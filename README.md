@@ -1,4 +1,4 @@
-Projeto de um site de uma clínica médica com base no template MediCenter. Motivado pelo curso de HTML/CSS do Boniecky(b7web.com.br).
+Projeto de um site de uma clínica médica com base no template MediCenter. Motivado pelo curso HTML/CSS do Boniecky(b7web.com.br).
 
 Com propósito de treinar os conhecimentos em HTML e CSS.
 
